@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "XML_Parser_Project/1.0.0": {
+        "runtime": {
+          "XML_Parser_Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XML_Parser_Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

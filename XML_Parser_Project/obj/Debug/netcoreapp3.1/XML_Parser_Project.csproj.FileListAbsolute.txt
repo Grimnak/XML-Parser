@@ -1,0 +1,13 @@
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\bin\Debug\netcoreapp3.1\XML_Parser_Project.exe
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\bin\Debug\netcoreapp3.1\XML_Parser_Project.deps.json
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\bin\Debug\netcoreapp3.1\XML_Parser_Project.runtimeconfig.json
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\bin\Debug\netcoreapp3.1\XML_Parser_Project.runtimeconfig.dev.json
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\bin\Debug\netcoreapp3.1\XML_Parser_Project.dll
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\bin\Debug\netcoreapp3.1\XML_Parser_Project.pdb
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\obj\Debug\netcoreapp3.1\XML_Parser_Project.csprojAssemblyReference.cache
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\obj\Debug\netcoreapp3.1\XML_Parser_Project.AssemblyInfoInputs.cache
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\obj\Debug\netcoreapp3.1\XML_Parser_Project.AssemblyInfo.cs
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\obj\Debug\netcoreapp3.1\XML_Parser_Project.csproj.CoreCompileInputs.cache
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\obj\Debug\netcoreapp3.1\XML_Parser_Project.dll
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\obj\Debug\netcoreapp3.1\XML_Parser_Project.pdb
+C:\Users\Eric T Henderson\Documents\Career\XML_Parser_Project\obj\Debug\netcoreapp3.1\XML_Parser_Project.genruntimeconfig.cache

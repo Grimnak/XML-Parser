@@ -1,0 +1,41 @@
+<?xml version = "1.0"?>
+<!--
+This is an extended version of the XML provided in the project description.
+The user can advance through the elements in the XML by utilizing the provided methods as demonstrated.
+-->
+<root>
+    <order id="1111">
+        <amount>150</amount>
+    </order>
+    <irrelevant nonsense=""/>
+    <order id="222">
+        <amount>2</amount>
+    </order>
+    <irrelevant nonsense="nothing" />
+    <order id="-5">
+        <amount>100</amount>
+    </order>
+    <irrelevant nonsense="">
+        <order id="54">
+            <amount>7345</amount>
+        </order>
+    </irrelevant>
+    <order id="2000">
+        <amount>33</amount>
+    </order>
+    <order id="333">
+        <amount>333</amount>
+    </order>
+    <order id="5194">
+        <amount>101</amount>
+    </order>
+    <order id="25">
+        <amount>-497</amount>
+    </order>
+    <order id="0">
+        <amount>0</amount>
+    </order>
+    <order id=" ">
+        <amount></amount>
+    </order>
+</root>
