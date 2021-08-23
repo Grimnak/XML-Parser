@@ -1,4 +1,4 @@
-# XML-Parser
+# XML Parser
 Written in C#, this simple XML parser reads in an XML file and allows the user to access the data within.
 
 ## Usage
